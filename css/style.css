@@ -9,13 +9,13 @@
 }
 
 .main-section-intro{
-    background-image: url(../images/background-1.jpg);
+    background-image: url(../images/background-7.jpg);
 }
 
 .main-section-intro-text{
     margin-top: 10em;
     margin-left: 5em;
-    color: black;
+    color: white;
 
 }
 
@@ -26,9 +26,9 @@
     border-radius: 35px;
 }
 
-.my-custom-dp h6{
+.my-custom-dp h5{
     text-align: center;
-    color: rgb(8, 51, 8);
+    color: whitesmoke;
 }
 
 .main-section-project{
@@ -37,6 +37,13 @@
 
 .main-section-project-cards{
     margin: 5em 5em;
+}
+
+.custom-card{
+    border: none !important;
+    border-radius: 15px !important;
+    box-shadow: 5px 5px 13px grey;
+    margin-top: 8px;
 }
 
 .card img{
@@ -74,6 +81,14 @@
 
 .copyright-area{
     justify-content: center;
+}
+
+.developer-info{
+    margin: 2px 2px;
+}
+
+.developer-info a{
+    text-decoration: none;
 }
 
 @media (max-width: 768px){
