@@ -72,6 +72,10 @@
     margin: 0em 1em;
 }
 
+.copyright-area{
+    justify-content: center;
+}
+
 @media (max-width: 768px){
     .custom-nav-item{
         margin: auto;
