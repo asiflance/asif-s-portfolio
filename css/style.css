@@ -96,12 +96,11 @@
 }
 
 .developer-info{
-    margin: 2px 2px;
+    margin-top: 5px;
 }
 
 .developer-info a{
     text-decoration: none;
-    text-align: end;
 }
 
 @media (max-width: 768px){
