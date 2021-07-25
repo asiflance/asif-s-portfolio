@@ -19,16 +19,26 @@
 
 }
 
+.main-section-intro-pic{
+    height: 35em;
+    width: 30em;
+    align-items: center;
+}
+
 .main-section-intro-pic img{
-    width: 25em ;
-    height: 30em;
-    margin-left: 8em;
+    width: 20em ;
+    height: 25em;
+    margin-left: 10em;
+    margin-top: 5em;
     border-radius: 35px;
+
 }
 
 .my-custom-dp h5{
+    margin-top: 10px;
     text-align: center;
     color: whitesmoke;
+
 }
 
 .main-section-project{
@@ -49,6 +59,8 @@
 .card img{
     height: 600px;
 }
+
+
 
 .main-section-footer{
     background-color: rgb(51, 50, 50);
@@ -89,6 +101,7 @@
 
 .developer-info a{
     text-decoration: none;
+    text-align: end;
 }
 
 @media (max-width: 768px){
